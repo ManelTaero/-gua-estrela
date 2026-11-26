@@ -1,10 +1,10 @@
 /* ===== DADOS EDITÁVEIS ===== */
 const CONFIG = { whatsapp: "258874083302", phone: "+258874083302", mapQuery: "VJ55+HQ Tete" };
 const PRODUCTS = [
-    { name: "Água Estrela Fresh", size: "1.5 L", price: 8.5, img: "img/botija15.png" },
-    { name: "Água Estrela Familiar", size: "5L & 6L", price: 30, img: "img/botija56.jpg" },
-    { name: "Água Estrela Clássica", size: "18L", price: 100, img: "img/botija18.jpg" },
-    { name: "Água Estrela Especial", size: "25L", price: 110, img: "img/botija25.jpg" }];
+    { name: "Água Estrela Fresh", size: "1.5 L", price: 8.5, img: "img/botija15.webp" },
+    { name: "Água Estrela Familiar", size: "5L & 6L", price: 30, img: "img/botija56.webp" },
+    { name: "Água Estrela Clássica", size: "18L", price: 100, img: "img/botija18.webp" },
+    { name: "Água Estrela Especial", size: "25L", price: 110, img: "img/botija25.webp" }];
 
 const PAGAMENTO = {
     moeda: "MT", metodos: [
